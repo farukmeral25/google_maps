@@ -4,3 +4,4 @@ export 'shared_widgets/_shared_widgets_exports.dart';
 export 'init/_init_exports.dart';
 export 'error/_error_exports.dart';
 export 'constant/_constant_exports.dart';
+export 'package:dio/dio.dart';

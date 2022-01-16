@@ -1,4 +1,3 @@
-import 'package:dio/dio.dart';
 import 'package:get_it/get_it.dart';
 import 'package:google_maps_location/core/_core_exports.dart';
 import 'package:google_maps_location/feature/_feature_exports.dart';
